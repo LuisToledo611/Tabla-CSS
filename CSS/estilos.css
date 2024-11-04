@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    background-color: rgb(234, 234, 234);
+}
+.contenedor {
+    background-color: aliceblue;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(202, 255, 221);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table,th{
+    border: 4px solid black
+}
+th{
+    background-color: rgb(127, 255, 174);
+}
+
+header{
+    background-color: rgb(127, 255, 174);
+    padding: 15px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+h2{
+    color: rgb(14, 181, 86);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgb(0, 0, 0);
+}
+.data{
+    background-color: rgb(221, 249, 234);
+}
+.empresa{
+    border: 8px solid black
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    color: rgb(14, 181, 86);
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 350px;
+}
+.texto{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.derechos{
+    text-align: center;
+    padding: 25px;
+    color: black;
+}
+footer{
+    background-color: rgb(127, 255, 174);
+}
